@@ -1,3 +1,0 @@
-/home/skinny/Documents/Code/Toffin-Engine-A-Lightweight-2D-Game-Engine-in-C-/build/CMakeFiles/ToffinEngine.dir
-/home/skinny/Documents/Code/Toffin-Engine-A-Lightweight-2D-Game-Engine-in-C-/build/CMakeFiles/edit_cache.dir
-/home/skinny/Documents/Code/Toffin-Engine-A-Lightweight-2D-Game-Engine-in-C-/build/CMakeFiles/rebuild_cache.dir
